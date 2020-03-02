@@ -1,0 +1,2 @@
+rootProject.name='WHY Daily'
+include ':app'

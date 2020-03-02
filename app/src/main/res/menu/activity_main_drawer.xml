@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_diary"
+            android:icon="@drawable/ic_menu_diary"
+            android:title="@string/menu_diary" />
+
+        <item
+            android:id="@+id/nav_study"
+            android:icon="@drawable/ic_menu_study"
+            android:title="@string/menu_item_study">
+            <menu>
+                <item
+                    android:id="@+id/nav_Math"
+                    android:icon="@drawable/ic_menu_math"
+                    android:title="@string/menu_Math" />
+                <item
+                    android:id="@+id/nav_English"
+                    android:icon="@drawable/ic_menu_english"
+                    android:title="@string/menu_English" />
+                <item
+                    android:id="@+id/nav_Politics"
+                    android:icon="@drawable/ic_menu_politics"
+                    android:title="@string/menu_Politics" />
+                <item
+                    android:id="@+id/nav_Computer_Science"
+                    android:icon="@drawable/ic_menu_computer"
+                    android:title="@string/menu_Computer_Science" />
+            </menu>
+        </item>
+    </group>
+</menu>

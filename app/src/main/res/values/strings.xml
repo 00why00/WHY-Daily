@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WHY Daily</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">WHYの考研日记</string>
+    <string name="nav_header_desc">头像</string>
+    <string name="action_settings">设置</string>
+
+    <string name="menu_home">主页</string>
+    <string name="menu_diary">日记</string>
+    <string name="menu_item_study">考研</string>
+    <string name="menu_Math">数学</string>
+    <string name="menu_English">英语</string>
+    <string name="menu_Politics">政治</string>
+    <string name="menu_Computer_Science">计算机</string>
+
+    <string name="home_second">Home Second</string>
+</resources>

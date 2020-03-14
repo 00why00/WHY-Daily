@@ -7,11 +7,26 @@
     <string name="action_settings">设置</string>
 
     <string name="menu_home">主页</string>
+
     <string name="menu_diary">日记</string>
+    <string name="diary_wake_up_time">选择起床时间</string>
+    <string name="diary_go_to_bed_time">选择睡觉时间</string>
+    <string name="diary_today">今天是什么日子</string>
+    <string name="diary_today_auto_fill">今天是</string>
+    <string name="diary_weather">今天天气怎么样</string>
+    <string name="diary_weather_auto_fill">晴</string>
+    <string name="diary_mood">今天心情怎么样</string>
+    <string name="diary_mood_auto_fill">好</string>
+    <string name="diary_start">开启美好的一天</string>
+
     <string name="menu_item_study">考研</string>
+
     <string name="menu_Math">数学</string>
+
     <string name="menu_English">英语</string>
+
     <string name="menu_Politics">政治</string>
+
     <string name="menu_Computer_Science">计算机</string>
 
     <string name="home_second">Home Second</string>
